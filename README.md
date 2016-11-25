@@ -34,9 +34,9 @@ Good luck.
 You can find more info on us here:
 
 * https://causecode.com
-https://www.linkedin.com/company/causecode
-https://www.facebook.com/causecode/
-https://twitter.com/causecode
-https://www.instagram.com/causecode/
-https://plus.google.com/u/1/b/100959550068865457513/+CausecodeTechnologiesPune/posts
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UaaGrBXADdQ" frameborder="0" allowfullscreen></iframe>
+* https://www.linkedin.com/company/causecode
+* https://www.facebook.com/causecode/
+* https://twitter.com/causecode
+* https://www.instagram.com/causecode/
+* https://plus.google.com/u/1/b/100959550068865457513/+CausecodeTechnologiesPune/posts
+* https://www.youtube.com/watch?v=UaaGrBXADdQ
