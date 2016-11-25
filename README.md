@@ -5,7 +5,8 @@
 # Your mission, should you choose to accept it.
 
 Is to submit one of the following projects as a private github or bitbucket
-repository. You can share your repo with the username `challengecc`.
+repository. You can share your repo with the username `challengecc`. 
+Once you've shared the repository please email us at jobs@causecode.com with the link.
 
 1. Create a bug or issue tracker
 2. Create a chatbot that accepts job applications and stores it in a database
@@ -31,7 +32,8 @@ and start your interview process with us.
 Good luck.
 
 You can find more info on us here:
-https://causecode.com
+
+* https://causecode.com
 https://www.linkedin.com/company/causecode
 https://www.facebook.com/causecode/
 https://twitter.com/causecode
