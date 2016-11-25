@@ -25,8 +25,16 @@ Front-end technologies like React, ReactNative and TypeScript get you ahead in t
 4. Documentation
 5. Functionality
 
-# These challenges will NOT self-destruct in the next 5 seconds and will be available for you when you are ready. Submit one
+These challenges will NOT self-destruct in the next 5 seconds and will be available for you when you are ready. Submit one
 and start your interview process with us.
 
 Good luck.
 
+You can find more info on us here:
+https://causecode.com
+https://www.linkedin.com/company/causecode
+https://www.facebook.com/causecode/
+https://twitter.com/causecode
+https://www.instagram.com/causecode/
+https://plus.google.com/u/1/b/100959550068865457513/+CausecodeTechnologiesPune/posts
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UaaGrBXADdQ" frameborder="0" allowfullscreen></iframe>
