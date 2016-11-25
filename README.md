@@ -6,7 +6,7 @@
 
 Is to submit one of the following projects as a private github or bitbucket
 repository. You can share your repo with the username `challengecc`. 
-Once you've shared the repository please email us at jobs@causecode.com with the link.
+Once you've shared the repository please email us at jobs@causecode.com with the link, cover letter and a resume.
 
 1. Create a bug or issue tracker
 2. Create a chatbot that accepts job applications and stores it in a database
