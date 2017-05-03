@@ -8,16 +8,25 @@ Is to submit one of the following projects as a private github or bitbucket
 repository. You can share your repo with the username `challengecc`. 
 Once you've shared the repository please email us at jobs@causecode.com with the link, cover letter and a resume.
 
+## Fullstack
+
 1. Create a bug or issue tracker
 2. Create a chatbot that accepts job applications and stores it in a database
 3. Create an application that helps user communicate between any two APIs listed at http://www.programmableweb.com/apis/directory
-4. Create a tiny CRM
+4. Create a tiny CRM 
 5. Create a small social network
+6. Find a website with public profiles and write a scraper to scrape those profiles
+7. Create a realtime video/audio/text chat application
+
+## Frontend/Backend only
+
+If you are applying for a frontend/backend developer position, just implement the frontend/backend for one of the Fullstack challenges.
+
 
 You have to build this project from scratch i.e. a big chunk of the code cannot come from a similar open source project. 
 You may use web frameworks like Grails, Sails, Rails, Django or something similar or it can be a mobile app as well.
 
-Front-end technologies like React, ReactNative and TypeScript get you ahead in the queue
+Front-end technologies like React, Vue, ReactNative and TypeScript get you ahead in the queue
 
 ## What are we looking for?
 1. How creative is your solution?
