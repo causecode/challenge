@@ -24,9 +24,9 @@ If you are applying for a frontend/backend developer position, just implement th
 
 
 You have to build this project from scratch i.e. a big chunk of the code cannot come from a similar open source project. 
-You may use web frameworks like Grails, Sails, Rails, Tornado (with SQLAlchemy) or something similar or it can be a mobile app as well.
+You may use web frameworks like Grails, Node on Serverless.com or something similar or it can be a mobile app as well.
 
-Front-end technologies like React, Vue, ReactNative and TypeScript get you ahead in the queue.
+Front-end technologies like React, ReactNative, Vue, and TypeScript get you ahead in the queue.
 If you are using React use [Create React App](https://github.com/facebookincubator/create-react-app) as a starting 
 point.
 
