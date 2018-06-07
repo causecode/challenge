@@ -30,7 +30,7 @@ Front-end technologies like React, ReactNative, Vue, and TypeScript get you ahea
 If you are using React use [Create React App](https://github.com/facebookincubator/create-react-app) as a starting 
 point.
 
-## What are we looking for?
+## *** What are we looking for? ***
 1. How creative is your solution?
 2. Commit history to see how your work evolved
 3. Code quality and best practices
