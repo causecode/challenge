@@ -10,10 +10,7 @@ Once you've shared the repository please email us at jobs@causecode.com with the
 
 ## Fullstack
 
-1. Create a bug or issue tracker
-2. Create a chatbot that accepts job applications and stores it in a database
-3. Create an application that helps user communicate between any two APIs listed at http://www.programmableweb.com/apis/directory
-4. Create a tiny CRM 
+1. Create an inventory management platform for { pick an industry, product or service }. For example, inventory management for TVs.
 5. Create a small social network
 6. Find a website with public profiles and write a scraper to scrape those profiles
 7. Create a realtime video/audio/text chat application
