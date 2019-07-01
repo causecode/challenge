@@ -37,6 +37,10 @@ point.
 These challenges will NOT self-destruct in the next 5 seconds and will be available for you when you are ready. Submit one
 and start your interview process with us.
 
+<a href="http://bit.ly/Causecode-Submission" target="_blank" styles="display:inline-block;padding:0.35em 1.2em;border:0.1em solid #FFFFFF; margin:0 0.3em 0.3em 0;border-radius:0.12em;box-sizing: border-box;text-decoration:none;font-family:'Roboto',sans-serif;font-weight:300;color:#FFFFFF;text-align:center;transition: all 0.2s;">
+Submit Your Code
+</a>
+
 Good luck.
 
 You can find more info on us here:
